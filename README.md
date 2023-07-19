@@ -1,2 +1,2 @@
-# Inventory-Management-System
-Java IMS demonstrating OOP, Scene Builder, and JavaFX
+# IMS_App
+Java Inventory Management System demonstrating OOP, Scene Builder, and JavaFX
