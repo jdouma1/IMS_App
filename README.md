@@ -1,2 +1,3 @@
 # IMS_App
-Java Inventory Management System demonstrating design of interface to update products and inventory of MySQL database.
+A Java inventory management system demonstrating object-oriented design, scene builder, and JavaFX development.
+This system demonstrates the design of a user interface to update products and inventory of a MySQL database.
